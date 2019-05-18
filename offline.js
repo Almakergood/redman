@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1557766211,
+	"version": 1558203456,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -82,6 +82,8 @@
 		"partkys.png",
 		"partfin.png",
 		"partnom.png",
+		"st_time-sheet0.png",
+		"st-sheet0.png",
 		"particles9.png",
 		"particles6.png",
 		"sprite2-sheet0.png",
